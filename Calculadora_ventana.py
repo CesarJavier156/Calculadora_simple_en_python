@@ -1,5 +1,5 @@
 import tkinter as Tk #alias tk
-
+#aqui s definen las ecuaciones
 def suma():
     num1=int(entry_num1.get()) #entry num 1 es una caja de texto 1
     num2=int(entry_num2.get()) #entry num 2 es una segunda caja de texto
